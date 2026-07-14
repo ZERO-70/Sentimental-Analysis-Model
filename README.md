@@ -96,4 +96,4 @@ pip install torch torchtext matplotlib numpy tqdm
 
 ## 📜 License
 
-This project is licensed under the MIT License. See `LICENSE` for details.
+This project is open source.
